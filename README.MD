@@ -25,4 +25,4 @@ Menu button for setting values is handled through the extension menu
 <img src="./repo-assets/configuring.png">
 
 ## Installing
-Working on adding to UserScript markets, but the file to add from this repo is [Zachary's GitHub Addons.user.js](./Zachary's GitHub Addons.user.js)
+Working on adding to UserScript markets, but the file to add from this repo is [Zachary's GitHub Addons.user.js](https://github.com/zacwm/zacharys-github-addons/raw/main/Zachary's%20GitHub%20Addons.user.js)
